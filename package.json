@@ -11,7 +11,6 @@
     "url": "git+https://github.com/Irmiz/webpack-prepend-plugin.git"
   },
   "keywords": [
-    "webpack",
     "plugin",
     "prepend"
   ],
