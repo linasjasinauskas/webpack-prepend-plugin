@@ -11,9 +11,13 @@
     "url": "git+https://github.com/Irmiz/webpack-prepend-plugin.git"
   },
   "keywords": [
+    "webpack",
     "plugin",
     "prepend"
   ],
+  "peerDependencies": {
+    "webpack": "2.2.0-rc.0"
+  },
   "author": "Irmantas Zenkus",
   "license": "ISC",
   "bugs": {
